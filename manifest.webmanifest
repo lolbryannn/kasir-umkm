@@ -1,0 +1,13 @@
+{
+  "name": "Kasir UMKM",
+  "short_name": "Kasir",
+  "description": "Aplikasi kasir gratis untuk UMKM. Jalan offline, tanpa server.",
+  "start_url": "./#kasir",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f6",
+  "theme_color": "#0f766e",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
